@@ -1,0 +1,5 @@
+{
+  "name": "Memory Match Game",
+  "description": "A fun and visually appealing memory matching game where you find pairs of cards. Test your memory and see how many moves it takes to win!",
+  "requestFramePermissions": []
+}
